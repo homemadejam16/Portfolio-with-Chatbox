@@ -85,6 +85,6 @@ def show_page():
             """,
             unsafe_allow_html=True,
         )
-        st.image(r"images/jane.jpg", use_column_width=True)
+        st.image(r"images/profile.jpg", use_column_width=True)
 
 
