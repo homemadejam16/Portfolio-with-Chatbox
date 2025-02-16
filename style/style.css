@@ -1,0 +1,33 @@
+/* Updated style for inputs with type="text", type="email" and textareas */
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 90%; /* Adjusted to slightly reduce full width */
+  padding: 14px; /* Increased padding for better spacing */
+  border: 2px solid #888; /* Darker border for better visibility */
+  border-radius: 6px; /* Slightly more rounded corners */
+  box-sizing: border-box; /* Ensure padding and width remains consistent */
+  margin-top: 8px; /* Increased top margin */
+  margin-bottom: 18px; /* Increased bottom margin */
+  resize: both; /* Allow resizing both vertically and horizontally */
+  background-color: #f9f9f9; /* Subtle background color */
+  font-size: 16px; /* Increased font size for better readability */
+}
+
+/* Updated style for the submit button with new styles */
+button[type="submit"] {
+  background-color: #007BFF; /* Changed to a blue color */
+  color: white;
+  padding: 14px 22px; /* Slightly adjusted padding */
+  border: 1px solid #0056b3; /* Added a border */
+  border-radius: 6px; /* Slightly more rounded corners */
+  cursor: pointer;
+  font-size: 16px; /* Increased font size for better visibility */
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* Added smooth transitions */
+}
+
+/* New hover effect for the submit button */
+button[type="submit"]:hover {
+  background-color: #0056b3; /* Darker blue for hover effect */
+  border-color: #003f7f; /* Slightly darker border on hover */
+}

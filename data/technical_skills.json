@@ -1,0 +1,88 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "description": "proficient level, more than 3 years experience, used python in data analysis, digital signal processing, machine learning and AI projects."
+    },
+    {
+      "name": "Java",
+      "description": "Had the course of object oriented programming by Java. Built a student score management system."
+    },
+    {
+      "name": "Matlab and Simulink",
+      "description": "Had course work of signal processing using matlab, and computational modeling using Matlab Simulink."
+    },
+    {
+      "name": "Large Language Model (LLM)",
+      "description": "Designed chatbots and tools to provide insights regarding orders using Prompt Engineering to leverage LLM capabilities."
+    },
+    {
+      "name": "Advanced Relational Database and SQL",
+      "description": "Had course work on relational database design and management."
+    },
+    {
+      "name": "Vector Database",
+      "description": "used embeddings, collections, and queries using Chroma DB, PostgreSQL, MongoDB, and Cassandra, to encode files and retrieval information in building local knowledge-based AI recommendation system."
+    },
+    {
+      "name": "Prompt Engineering",
+      "description": "Wrote prompts to discover the power of Large Language Model."
+    },
+    {
+      "name": "Data Analytics",
+      "description": "Analyzed data to find correlations, trends and patterns."
+    },
+    {
+      "name": "JSON",
+      "description": "Used JSON for data applications ."
+    },
+    {
+      "name": "Power BI / R",
+      "description": "Used Power BI / R for data manipulation, analysis, and visualization."
+    },
+    {
+      "name": "Machine Learning Algorithms",
+      "description": "Implemented machine learning algorithms for classification and prediction."
+    },
+    {
+      "name": "Scikit-learn",
+      "description": "Used scikit-learn for data analysis and modeling, like regression, classification, clustering, dimensionality reduction, and model selection."
+    },
+    {
+      "name": "Deep Learning models",
+      "description": "Implemented deep learning models for image generation."
+    },
+    {
+      "name": "Pytorch",
+      "description": "Used pytorch in deep learning applications and genAI."
+    },
+    {
+      "name": "Tensorflow",
+      "description": "Used Tensorflow in deep learning applications and genAI."
+    },
+    {
+      "name": "Keras",
+      "description": "Used Keras in deep learning applications and genAI."
+    },
+    {
+      "name": "Keras",
+      "description": "Used Keras in deep learning applications and genAI."
+    },
+    {
+      "name": "Neuroscience",
+      "description": "Had course work of neuroscience, researched on voltage sensitive biosensors for neural imaging, and implantable neural micro-electrode technology."
+    },
+    {
+      "name": "Biochemistry",
+      "description": "Had course work of biochemistry."
+    },
+    {
+      "name": "Signal Processing",
+      "description": "Had course work of Signal processing, used Fourier Transfer to detect arrythmia of ECG signals, and reconstructed ECG signal using Reverse Fourier Transfer method."
+    },
+    {
+      "name": "Nanomaterial",
+      "description": "Had course work of nanomaterial, and attended Nano-fabrication Bootcamp in GMU."
+    }
+  ]
+}
