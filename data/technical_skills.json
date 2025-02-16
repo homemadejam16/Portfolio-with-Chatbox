@@ -65,9 +65,13 @@
       "description": "Used Keras in deep learning applications and genAI."
     },
     {
-      "name": "Keras",
-      "description": "Used Keras in deep learning applications and genAI."
+      "name": "Lang chain",
+      "description": "Used Langchain and RAG to build chatbot."
     },
+   {
+      "name": "RAG",
+      "description": " Used Langchain and RAG to build chatbot."
+   },
     {
       "name": "Neuroscience",
       "description": "Had course work of neuroscience, researched on voltage sensitive biosensors for neural imaging, and implantable neural micro-electrode technology."
@@ -81,7 +85,7 @@
       "description": "Had course work of Signal processing, used Fourier Transfer to detect arrythmia of ECG signals, and reconstructed ECG signal using Reverse Fourier Transfer method."
     },
     {
-      "name": "Nanomaterial",
+      "name": "Nanomaterial and Nano-fabrication",
       "description": "Had course work of nanomaterial, and attended Nano-fabrication Bootcamp in GMU."
     }
   ]
