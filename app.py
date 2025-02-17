@@ -3,6 +3,10 @@ from streamlit_option_menu import option_menu
 import importlib
 import sqlite3
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 
 # Page configuration
 st.set_page_config(
